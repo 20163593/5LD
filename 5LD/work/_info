@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Documents and Settings/Studentas/Desktop/lab4-master
+Earba
+Z0 w1526979311
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Documents and Settings/Studentas/Desktop/5LD
+Z4 8C:/Documents and Settings/Studentas/Desktop/5LD/5_laboro_naujas2.vhd
+Z5 FC:/Documents and Settings/Studentas/Desktop/5LD/5_laboro_naujas2.vhd
+l0
+L4
+VATeO^>ToT>GH@7VnWKZ1;2
+!s100 >l8Wi86CTDXZE7HddS@hi3
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1526982317
+!i10b 1
+Z8 !s108 1526982317.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Documents and Settings/Studentas/Desktop/5LD/5_laboro_naujas2.vhd|
+Z10 !s107 C:/Documents and Settings/Studentas/Desktop/5LD/5_laboro_naujas2.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Artl
+R1
+R2
+DEx4 work 4 arba 0 22 ATeO^>ToT>GH@7VnWKZ1;2
+l14
+L13
+VQ4fhF^Kb58Oz2Vh`eIfZS0
+!s100 E9hjHj>F0knmlB]Jj10WX1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emk_lab_5_case
+Z13 w1526983135
+R1
+R2
+R3
+Z14 8C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_CASE.vhd
+Z15 FC:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_CASE.vhd
+l0
+L4
+VQ>Gd5ENES?BU1]`BXN73j3
+!s100 VkF`]eOJAI65^N4MR<o;M1
+R6
+32
+Z16 !s110 1526983146
+!i10b 1
+Z17 !s108 1526983146.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_CASE.vhd|
+Z19 !s107 C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_CASE.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 13 mk_lab_5_case 0 22 Q>Gd5ENES?BU1]`BXN73j3
+l15
+L14
+V;TIQME<ml:XcQ7J9Ya5EQ2
+!s100 7ic?4kmJee>H1_cbje7FA2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Emk_lab_5_if
+Z20 w1525774431
+R1
+R2
+R3
+Z21 8C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_IF.vhd
+Z22 FC:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_IF.vhd
+l0
+L4
+V[jiiK4z>k1kFNG>_V0aDN2
+!s100 JXdmkSnX8K:OPA0Fd213=1
+R6
+32
+Z23 !s110 1526983147
+!i10b 1
+Z24 !s108 1526983147.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_IF.vhd|
+Z26 !s107 C:/Documents and Settings/Studentas/Desktop/MK LD5/MK_LAB_5_IF.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 11 mk_lab_5_if 0 22 [jiiK4z>k1kFNG>_V0aDN2
+l15
+L14
+VYAdWfzVS2ZBTeOKjRk^V[1
+!s100 X@lF72VVeRb<FZk=e89773
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Eprocess_tb
+Z27 w1525774942
+R1
+R2
+R3
+Z28 8C:/Documents and Settings/Studentas/Desktop/MK LD5/process_SU_IF.vhd
+Z29 FC:/Documents and Settings/Studentas/Desktop/MK LD5/process_SU_IF.vhd
+l0
+L4
+V;dmRB5<][AA`OkJYHCfBP0
+!s100 9Fz<5bY7O?oPLHH:OkE?l2
+R6
+32
+R23
+!i10b 1
+R24
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Documents and Settings/Studentas/Desktop/MK LD5/process_SU_IF.vhd|
+Z31 !s107 C:/Documents and Settings/Studentas/Desktop/MK LD5/process_SU_IF.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+Z32 DEx4 work 10 process_tb 0 22 ;dmRB5<][AA`OkJYHCfBP0
+l27
+L7
+V]W5S`_e<i[19[h7ka9HgR2
+!s100 eVKjM^fdaJF7Df=:WZ:kf2
+R6
+32
+R23
+!i10b 1
+R24
+R30
+R31
+!i113 1
+R11
+R12
